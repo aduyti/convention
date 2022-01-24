@@ -26,3 +26,13 @@ ul {
     border-left: 10px solid #0D6EFD;
     width: 280px;
 }
+
+footer {
+    background-color: #070733;
+}
+
+.img-app {
+    height: 40px;
+    width: 130px;
+
+}
