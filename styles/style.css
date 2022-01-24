@@ -10,3 +10,13 @@
 #container-carouse p{
     font-size: 24px;
 }
+#package-card p{
+    margin-bottom: 0;
+}
+ul{
+    list-style: none;
+}
+#gift-toast{
+    border-left: 10px solid #2e2eff; 
+    width: 280px;
+}
