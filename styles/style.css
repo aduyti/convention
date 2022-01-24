@@ -1,22 +1,28 @@
-*{
+* {
     font-family: 'Outfit', sans-serif;
 }
-#container-carousel img{
+
+#container-carousel img {
     height: 530px;
 }
-#container-carousel h1{
+
+#container-carousel h1 {
     font-size: 48px;
 }
-#container-carouse p{
+
+#container-carouse p {
     font-size: 24px;
 }
-#package-card p{
+
+#package-card p {
     margin-bottom: 0;
 }
-ul{
+
+ul {
     list-style: none;
 }
-#gift-toast{
-    border-left: 10px solid #2e2eff; 
+
+#gift-toast {
+    border-left: 10px solid #2e2eff;
     width: 280px;
 }
