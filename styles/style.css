@@ -4,3 +4,9 @@
 #container-carousel img{
     height: 530px;
 }
+#container-carousel h1{
+    font-size: 48px;
+}
+#container-carouse p{
+    font-size: 24px;
+}
